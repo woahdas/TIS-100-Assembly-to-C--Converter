@@ -2,8 +2,6 @@
 #include <fstream>
 #include <iostream>
 #include <fstream>
-#include <chrono>
-#include <thread>
 #include <vector> 
 
 using namespace std;
